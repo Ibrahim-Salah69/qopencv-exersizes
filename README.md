@@ -1,2 +1,2 @@
-# qopencv-exersizes
+# opencv-exersizes
 open cv codes 
